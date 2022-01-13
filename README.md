@@ -10,6 +10,7 @@
 
 
 - 👀 I’m interested in Game Development,App Devlopment,Web Development
+- ⚡ Fun fact I am OverPowered!! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
