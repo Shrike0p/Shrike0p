@@ -65,7 +65,7 @@
 
 <details ><summary>Contributions Stats</summary><br>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrike0p&theme=leafy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrike0p&theme=leafy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Shrike0p GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrike0p)](https://github.com/Shrike0p/github-readme-stats)
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrike0p" alt="shrike0p" /></a> </p>
 
