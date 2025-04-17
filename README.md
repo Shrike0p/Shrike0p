@@ -2,7 +2,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFG1VHiuSbUPQ/profile-displaybackgroundimage-shrink_350_1400/0/1640724837298?e=1647475200&v=beta&t=OZg40sEhhX9qJ5tBkLP-s0hf4-pH_6f2yxRldGOH4Zo)
 
 <h1 align="center">Hey 👋, I'm Prakhar aka Shrike</h1>
-<h3 align="center">🚀 Frontend Engineer | UI Sorcerer | WebGL Adventurer</h3>
+<h3 align="center">🚀 Software Engineer | UI Sorcerer | WebGL Adventurer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🧠 Exploring 3D rendering with **Three.js** and **WebGL**  
 - 🔭 Working on image rendering, rating algorithms & GPU-accelerated visualizations  
 - 🌐 Passionate about creating **mind-blowing UI/UX** experiences  
-- 🎮 Love building stuff in **Game Dev**, **App Dev**, and **Web Dev** domains  
+- 🎮 Love building stuff in **Frontend**, **Backend**, and **Web Dev** domains  
 - ⚡ Fun Fact: I’m basically your GPU with a personality — *OverPowered!* 💪
 
 ---
