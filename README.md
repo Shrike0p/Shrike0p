@@ -1,25 +1,28 @@
 
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFG1VHiuSbUPQ/profile-displaybackgroundimage-shrink_350_1400/0/1640724837298?e=1647475200&v=beta&t=OZg40sEhhX9qJ5tBkLP-s0hf4-pH_6f2yxRldGOH4Zo)
 
-<h1 align="center">Hi 👋, I'm Prakhar | Shrike </h1>
+<h1 align="center">Hey 👋, I'm Prakhar aka Shrike</h1>
+<h3 align="center">🚀 Frontend Engineer | UI Sorcerer | WebGL Adventurer</h3>
 
+---
 
-- 🌱 I’m currently learning **Kotlin and java for app development**
+- 👨‍💻 Currently diving deep into **Kotlin** and **Java** for Android App Development  
+- 🧠 Exploring 3D rendering with **Three.js** and **WebGL**  
+- 🔭 Working on image rendering, rating algorithms & GPU-accelerated visualizations  
+- 🌐 Passionate about creating **mind-blowing UI/UX** experiences  
+- 🎮 Love building stuff in **Game Dev**, **App Dev**, and **Web Dev** domains  
+- ⚡ Fun Fact: I’m basically your GPU with a personality — *OverPowered!* 💪
 
-- 📫 How to reach me **prakharsingh2205@gmail.com**
+---
 
-
-- 👀 I’m interested in Game Development,App Devlopment,Web Development
-- ⚡ Fun fact I am <b>OverPowered!! 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakhar-singh-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-singh-01" height="30" width="40" /></a>
-  <a href="https://instagram.com/_.prakhar._singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.prakhar._singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLkmN05cAM1e1b7Sm5RjE2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclkmn05cam1e1b7sm5rje2w" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/prakhar-singh-01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/_.prakhar._singh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCLkmN05cAM1e1b7Sm5RjE2w" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
 
+---
 
   <b>
   <details>
