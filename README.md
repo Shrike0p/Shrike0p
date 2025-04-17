@@ -1,5 +1,5 @@
 
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFG1VHiuSbUPQ/profile-displaybackgroundimage-shrink_350_1400/0/1640724837298?e=1647475200&v=beta&t=OZg40sEhhX9qJ5tBkLP-s0hf4-pH_6f2yxRldGOH4Zo)
+![image](https://github.com/user-attachments/assets/fada3f50-803c-4c05-a9dc-82a3c0ccaf8f)
 
 <h1 align="center">Hey 👋, I'm Prakhar aka Shrike</h1>
 <h3 align="center">🚀 Software Engineer | UI Sorcerer | WebGL Adventurer</h3>
