@@ -6,7 +6,7 @@
 
 ---
 
-- 👨‍💻 Currently diving deep into **Kotlin** and **Java** for Android App Development  
+- 👨‍💻 Currently diving deep into **NextJS** and **TypeScript**  
 - 🧠 Exploring 3D rendering with **Three.js** and **WebGL**  
 - 🔭 Working on image rendering, rating algorithms & GPU-accelerated visualizations  
 - 🌐 Passionate about creating **mind-blowing UI/UX** experiences  
