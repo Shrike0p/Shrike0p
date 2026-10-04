@@ -1,17 +1,18 @@
-
 ![image](https://github.com/user-attachments/assets/fada3f50-803c-4c05-a9dc-82a3c0ccaf8f)
 
 <h1 align="center">Hey 👋, I'm Prakhar aka Shrike</h1>
-<h3 align="center">🚀 Software Engineer | UI Sorcerer | WebGL Adventurer</h3>
+<h3 align="center">🚀 Software Engineer @ Flam | UI Sorcerer | WebGL Adventurer | Realtime AI Tinkerer</h3>
 
 ---
 
-- 👨‍💻 Currently diving deep into **NextJS** and **TypeScript**  
-- 🧠 Exploring 3D rendering with **Three.js** and **WebGL**  
-- 🔭 Working on image rendering, rating algorithms & GPU-accelerated visualizations  
-- 🌐 Passionate about creating **mind-blowing UI/UX** experiences  
-- 🎮 Love building stuff in **Frontend**, **Backend**, and **Web Dev** domains  
-- ⚡ Fun Fact: I’m basically your GPU with a personality — *OverPowered!* 💪
+- 🤖 Building **AI-powered conversational & agentic products** at [Flam](https://flamapp.ai/)
+- 🎙️ Working with **WebRTC, realtime streaming, voice interfaces & VAD**: talk to an AI, watch an avatar talk back
+- 🧩 Building interfaces that orchestrate **Main Agents → Sub-agents** with tool calling, validation & **MCP** integrations
+- 🎨 Crafting complex UIs with **React, Next.js & TypeScript**, plus a whole design system to back them up
+- 🧠 Still exploring 3D rendering with **Three.js, WebGL & shaders**
+- 🔭 Currently learning **backend architecture, distributed systems, RAG & WebRTC internals**
+- 🌐 Passionate about creating **mind-blowing UI/UX** experiences
+- ⚡ Fun Fact: I’m basically your GPU with a personality *OverPowered!* 💪
 
 ---
 
@@ -24,54 +25,36 @@
 
 ---
 
-  <b>
-  <details>
-<summary>Languages and Tools:</summary><br> 
-    <details><summary>Programming Languages:</summary><br>
-    </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></details> <details > <summary>Frontend Development:</summary><br>
-    
-          
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> </details>    
-  <details ><summary>Mobile App Development:</summary><br>
-    
-      
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></details><details ><summary>Database:</summary><br>
-  
-  
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </details> <details ><summary>Software:</summary><br>
-  
-      
-  
-  
-      
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p></details>
- <details ><summary>Other:</summary><br>
+<h3 align="left">🧰 Languages and Tools:</h3>
 
+| | |
+|:--|:--|
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=ts,js,go,py,java,cpp&perline=8" height="40" /> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&perline=8" height="40" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" height="28" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=8" height="40" /> <img src="https://img.shields.io/badge/REST%20APIs-333333?style=flat-square" height="28" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28" /> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=8" height="40" /> |
+| **📡 Realtime** | <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Streaming-6E40C9?style=flat-square" height="28" /> <img src="https://img.shields.io/badge/VAD-1F6FEB?style=flat-square" height="28" /> |
+| **🤖 AI** | <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square" height="28" /> <img src="https://img.shields.io/badge/Tool%20Calling-8A2BE2?style=flat-square" height="28" /> <img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Agentic%20Workflows-8A2BE2?style=flat-square" height="28" /> |
+| **🌀 Graphics** | <img src="https://skillicons.dev/icons?i=threejs&perline=8" height="40" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/GLSL%20Shaders-5586A4?style=flat-square&logo=opengl&logoColor=white" height="28" /> |
+| **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,aws,docker,linux,git,github&perline=8" height="40" /> |
+| **🧩 Design Systems** | <img src="https://skillicons.dev/icons?i=figma&perline=8" height="40" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Design%20Tokens-333333?style=flat-square" height="28" /> |
 
-   
-    
-    
+<details>
+<summary><b>📦 Also worked with</b></summary><br>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </details>
+<img src="https://skillicons.dev/icons?i=c,cs,kotlin,androidstudio,bootstrap,ps,xd" height="40" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 </details>
-  
-  
 
-<details ><summary>Contributions Stats</summary><br>
+---
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrike0p&theme=leafy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Shrike0p GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrike0p)](https://github.com/Shrike0p/github-readme-stats)
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrike0p" alt="shrike0p" /></a> </p>
+<details>
+<summary><b>Contributions Stats</b></summary><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shrike0p&theme=leafy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
 </details>
 
